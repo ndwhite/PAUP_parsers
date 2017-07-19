@@ -23,7 +23,6 @@ if ($array[2] =~ m/node/){
 						}
 				} else {
 				}
-
 		} else {
 
 ##########Subloop for lines containing taxon names
@@ -38,7 +37,6 @@ if ($array[2] =~ m/node/){
 				} else {
 				}
 	}
-
 
 #################################Start main loop##########################################
 until (eof FILE) {
