@@ -1,7 +1,7 @@
 # PAUP_parsers
 Please cite use of this software.
 
-These are a collection of scripts I've written to process PAUP\* output. 
+These are a collection of scripts I've written to process PAUP\* (Swofford, D. L. 2002. PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4. Sinauer Associates, Sunderland, Massachusetts.) output. 
 
 PAUP_Indel_parser.pl
 
