@@ -1,7 +1,7 @@
 # PAUP_parsers
 Please cite use of this software.
 
-These are a collection of scripts I've written process PAUP\* output. 
+These are a collection of scripts I've written to process PAUP\* output. 
 
 PAUP_Indel_parser.pl
 
