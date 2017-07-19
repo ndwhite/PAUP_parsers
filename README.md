@@ -3,7 +3,7 @@ Please cite use of this software.
 
 These are a collection of scripts I've written to process PAUP\* (`Swofford, D. L. 2002. PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4. Sinauer Associates, Sunderland, Massachusetts.`) output. 
 
-PAUP_Indel_parser.pl
+**PAUP_Indel_parser.pl**
 
 Parses PAUP\* indel coding output listing apomorphies (`DescribeTrees / apoList;`) for indels on a given topology. Only outputs unambiguous ("=") indels with consistency index = 1. Input looks like:
 
